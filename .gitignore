@@ -1,0 +1,8 @@
+# 忽略 Obsidian 配置文件夹
+.obsidian/
+
+# 忽略 Git 属性文件
+.gitattributes
+
+# 忽略欢迎文件
+欢迎.md
